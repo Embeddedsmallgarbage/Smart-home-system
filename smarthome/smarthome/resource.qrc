@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/switch_off.png</file>
+        <file>images/switch_on.png</file>
+        <file>style.qss</file>
+        <file>images/lump_close.png</file>
+        <file>images/lump_open.png</file>
+        <file>images/thermometer.png</file>
+        <file>images/humidifier_off.png</file>
+        <file>images/humidifier_on.png</file>
+    </qresource>
+</RCC>
